@@ -1,0 +1,8 @@
+{
+  "repositories": [
+    "jitsi/jitsi-meet",
+    "jitsi/jicofo",
+    "jitsi/jitsi-videobridge",
+    "jitsi/docker-jitsi-meet"
+  ]
+}

@@ -1,3 +1,20 @@
+TODO:
+* Dynamically add comments based on headline and/or filename
+  ```
+  ---
+  id: bundle
+  title: Bundle
+  ---
+  ```
+* Split docker README into multiple files
+* Add search
+* Add all important repositories with docs
+* Sort and structurize docs (e.g. Quick Install to the top, Category for debian stuff)
+* Adjust all docusaurus settings (color, logo, name, links, docs-only-mode)
+* Fix links to GitHub repositories
+* Create multilayer dockerfiles
+
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
